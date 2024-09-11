@@ -6,5 +6,7 @@ git commit -m "완료메세지"
 git add.
 
 ```
-
-
+팀원 코드 추가 작업
+'''python
+print("왜 안되지")
+'''
