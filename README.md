@@ -3,6 +3,7 @@
 ```bash
 git add .
 git commit -m "완료메세지"
+git add.
 
 ```
 
